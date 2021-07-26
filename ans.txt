@@ -1,1 +1,1 @@
-Enter a length in cm: Length in inches is 39.3701
+Enter Employee Type : Enter Salary : Enter OtHrs : Net Salary is 13400
